@@ -1,0 +1,4 @@
+npm install jslint
+node jslint.js c:\Users\gnt\Desktop\Dev\Nodejs\labs\njs_upload\index.js
+
+curl -u lambda:l@mptsvn https://api.no.de/v1/heart -X POST
